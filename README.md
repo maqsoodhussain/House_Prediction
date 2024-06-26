@@ -132,4 +132,3 @@ For a comprehensive description of each field, refer to `data_description.txt`.
 
 ---
 
-Feel free to customize and expand this `readme.md` file with additional sections or insights as you progress through the competition. Good luck!
